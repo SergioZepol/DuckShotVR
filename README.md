@@ -5,10 +5,10 @@
 
 Proyecto desarrollado para la asignatura de Realidad Virtual por:  
 
-Fernando de la Vega Valle 
+- Fernando de la Vega Valle 
 
-Sergio López Llorente 
+- Sergio López Llorente 
 
-Iván Jiménez Blas 
+- Iván Jiménez Blas 
 
-Jaime Lleras Pérez
+- Jaime Lleras Pérez
